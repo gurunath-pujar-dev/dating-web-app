@@ -67,7 +67,7 @@ git clone https://github.com/gurunath-pujar-dev/dating-web-app.git
 - Navigate to the server directory:
 
 ```bash
-cd server
+cd api
 ```
 
 - Install dependencies:
